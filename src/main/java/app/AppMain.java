@@ -1,8 +1,9 @@
-package App;
+package app;
 
  import org.apache.commons.lang3.StringUtils;
+ import utils.Input;
 
-public class Main{
+public class AppMain {
 
     public static void main(String[] args) {
 
